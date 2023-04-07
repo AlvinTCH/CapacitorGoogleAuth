@@ -1,3 +1,5 @@
+### This is a fork from @codetrix-studio/capacitor-google-auth for testing some concepts
+
 # CapacitorGoogleAuth
 
 [![npm](https://img.shields.io/npm/v/@codetrix-studio/capacitor-google-auth)](https://www.npmjs.com/package/@codetrix-studio/capacitor-google-auth)
