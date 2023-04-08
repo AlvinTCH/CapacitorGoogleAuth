@@ -1,6 +1,6 @@
 {
   "name": "@greytch/capacitor-google-auth",
-  "version": "3.3.0",
+  "version": "3.3.3",
   "description": "Google Auth plugin for capacitor.",
   "main": "dist/esm/index.js",
   "types": "dist/esm/index.d.ts",
@@ -31,7 +31,7 @@
     "dist/",
     "ios/",
     "android/",
-    "CodetrixStudioCapacitorGoogleAuth.podspec"
+    "GreytchCapacitorGoogleAuth.podspec"
   ],
   "keywords": [
     "capacitor",
